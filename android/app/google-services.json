@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "971713421977",
+    "project_id": "ezinvoice-8de9a",
+    "storage_bucket": "ezinvoice-8de9a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971713421977:android:6009232e652f5162cace08",
+        "android_client_info": {
+          "package_name": "com.dheeraj.ezinvoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971713421977-3n8u82ku80as9fc6s65uidlfkag3kudr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dheeraj.ezinvoice",
+            "certificate_hash": "d16616af0bf8172c3471910c361cdf01d796ed60"
+          }
+        },
+        {
+          "client_id": "971713421977-38pa9uaepgop7362dlon6e44iqgknff0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOOqIbbm3v3p6Q-Me4L_FfzCksEZpQJzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971713421977-38pa9uaepgop7362dlon6e44iqgknff0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971713421977-cp34cdjhka5f26gli0uu31rq45kvv3s5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ezinvoice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
